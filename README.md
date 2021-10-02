@@ -11,7 +11,7 @@ Label: What is our label in the dataset or in otherwords the output?
 
 <br>
 
-Summary:
+<b>Summary: </b>
 Dataset Structure: 1470 observations (rows), 35 features (variables)
 Missing Data: Luckily for us, there is no missing data! this will make it easier to work with the dataset.
 Data Type: We only have two datatypes in this dataset: factors and integers
