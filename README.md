@@ -17,3 +17,5 @@ Missing Data: Luckily for us, there is no missing data! this will make it easier
 Data Type: We only have two datatypes in this dataset: factors and integers
 Label" Attrition is the label in our dataset and we would like to find out why employees are leaving the organization!
 Imbalanced dataset: 1237 (84% of cases) employees did not leave the organization while 237 (16% of cases) did leave the organization making our dataset to be considered imbalanced since more people stay in the organization than they actually leave.
+<br>
+Source: https://www.kaggle.com/janiobachmann/attrition-in-an-organization-why-workers-quit/notebook
