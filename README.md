@@ -1,6 +1,6 @@
-# R_bigdata
+# R_bigdata [Dataset]
 
-Questions we could Ask Ourselves:
+<b>Questions we could Ask Ourselves:</b>
 Columns and Observations: How many columns and observations is there in our dataset?
 Missing data: Are there any missing data in our dataset?
 Data Type: The different datatypes we are dealing in this dataset.
